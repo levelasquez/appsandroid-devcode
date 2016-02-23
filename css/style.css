@@ -141,3 +141,13 @@ body {
 .ranking-descargar:hover .icon-descarga {
     transform: translateY(50px);
 }
+
+/* Final */
+
+#footer {
+    padding: 20px 0;
+}
+
+#footer button {
+    float: right;
+}
